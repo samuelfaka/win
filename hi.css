@@ -16,7 +16,7 @@
     }
     .bg{
         background-color: gold;
-        height: 85vh;
+        height: 95vh;
         width: 95vw;
         border-radius: 25px;
         border: 5px solid white;
@@ -235,7 +235,7 @@
         flex-direction: column;
         align-items: center;
         justify-content: center;
-        height: 80vh;
+        height: 90vh;
     }
     .usd{
         font-weight: bold;
